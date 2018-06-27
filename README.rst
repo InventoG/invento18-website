@@ -1,6 +1,6 @@
 Invento18
 =========
-
+(Created by @biswaz)
  Website of Invento 18, annual national multifest of GEC Palakkad
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
